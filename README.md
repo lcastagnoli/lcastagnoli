@@ -5,8 +5,8 @@
 
 ## Graduation
 
-- Forensic Investigation & Criminal Expertise ✅
-- Analysis And Systems Development <img src="https://github.com/lcastagnoli/lcastagnoli/assets/50826360/dace4c21-082c-47a4-885e-b3a9bd8c89a7" width="20">
+- Forensic Investigation & Criminal Expertise
+- Analysis And Systems Development 
 
 ## Skills
 - Swift
